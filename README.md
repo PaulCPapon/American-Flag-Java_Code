@@ -16,16 +16,22 @@ I also did some research online to learn better the topic.
 
 Lines 1-5
 Line from 1 to 5 contain general information about the project.
+
 Line 8
 I created a class called Main.
+
 Line 10
 I created the entry point of my Java Application the main method.
+
 Lines 11-14
 To print the flag with for loop I created 2 String type variables. First variable name is StarStripesLine_Flag in line 12 which contain 2 lines, one with six stars and equals symbols for the first part of flag. Second Variable name is StripesLine_Flag in line 14 which contain 1 line with equals symbols.
+
 Lines 15-18
 I created the first for loop to print 4 times (8 lines in flag) StarStripesLine_Flag variable.
+
 Lines 19-20
 Line 19 and 20 are to print 9th line of American flag.
+
 Lines 21-24
 I created the second for loop for my application to print 6 times StripesLine_Flag variable.
 
