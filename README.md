@@ -5,7 +5,7 @@ This is a command line Java program written in Java programming language that pr
 Assessment Details
 
 Title: American Flag
-Task 1: Write a Java program to print an American flag on the screen.
+Task: Write a Java program to print an American flag on the screen.
 
 
 //*****Description*****
