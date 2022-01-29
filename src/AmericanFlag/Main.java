@@ -1,8 +1,3 @@
-/* Name: Papon Chandra Paul.
-Student Id: 21448105.
-Module: Programming.
-Task: 1
-Title: American Flag.*/
 package AmericanFlag;
 
 public class Main {
